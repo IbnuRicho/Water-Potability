@@ -25,7 +25,7 @@ This web application is built using **Streamlit** to predict whether water is dr
 - Prediction results: water is suitable or not suitable for drinking
 
 ## 🔗 Links
-- 📂 [GitHub Repository](https://github.com/ibnurico/Water-Potability)
+- 📂 [GitHub Repository](https://github.com/IbnuRicho/Water-Potability)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibnurichokurniawan/)
 
 ---
